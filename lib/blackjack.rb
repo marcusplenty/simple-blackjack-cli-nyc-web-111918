@@ -33,9 +33,9 @@ end
 def hit?(number)
   prompt_user
   if get_user_input == "h"
-    return initial_round + deal_card
+    
   else
-    return initial_round
+    return number
   end
         
   
