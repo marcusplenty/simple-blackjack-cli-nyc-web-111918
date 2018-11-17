@@ -38,7 +38,7 @@ def hit?(number)
   else
     return number
   end
-        
+  return sum +deal_card      
   
 end
 
