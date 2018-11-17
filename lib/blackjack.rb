@@ -9,6 +9,7 @@ end
 
 def display_card_total(total)
   puts "Your cards add up to #{total}"
+  return total
 end
 
 def prompt_user
